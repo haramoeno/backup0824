@@ -1,3 +1,4 @@
+// else-if文の例1
 let a = 0;
 if (a > 0) {
     console.log('a=' + a + 'は、正の整数です'); 
@@ -9,6 +10,9 @@ if (a > 0) {
     console.log('a=' + a + 'は、判定できません');    
 }
 
+
+
+// else-if文の例2
 let b = 'ゼロ';
 if (a >0) {
     console.log('a=' + b + 'は、正の整数です');

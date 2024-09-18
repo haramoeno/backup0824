@@ -1,3 +1,4 @@
+// switch文の例
 let mon = 2;
 switch (mon) {
    case 1:
